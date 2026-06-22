@@ -1,0 +1,2 @@
+# Student-Performance-Prediction-System-Using-Stream-lit-and-docker
+The Student Performance Prediction System is a Streamlit-based machine learning application that predicts whether a student is likely to pass or fail based on academic factors. Docker is used to containerize the application, ensuring easy deployment, portability, and consistent performance across different systems and environments.
